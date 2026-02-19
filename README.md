@@ -40,6 +40,11 @@ The reactive architecture allows the system to efficiently manage multiple simul
 
 ---
 
+## Future Improvements
+
+- Develop a React-based frontend to provide an intuitive booking interface
+- Implement authentication and role-based access control
+
 ## Running the Application
 
 ### Clone the repository
